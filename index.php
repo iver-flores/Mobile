@@ -25,6 +25,8 @@ require_once "models/AccsessM.php";
 require_once "controllers/CdrC.php";
 require_once "models/CdrM.php";
 
+//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
+
 /*require_once "Controladores/secretariasC.php";
 require_once "Modelos/secretariasM.php";
 
