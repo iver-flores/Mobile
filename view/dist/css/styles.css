@@ -1,0 +1,26 @@
+h1 {
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+    color: rgb(00, 00, 00);    
+    text-align: center;
+    font-weight: bold;
+}
+
+#container {
+    height: 200px;
+    width: 300px;
+    position: relative;
+}
+.columna {
+    width: 33%;
+    height: 100%;
+    float: left;
+}
+.columna div {
+    height: 25%;
+    width: 99%;
+    margin: 5px;
+    background: red;
+}
